@@ -1,4 +1,3 @@
 # Super Ai Season 3
-## Hack4-NER-Simple-Transformer
-
-### Hackaton Online : NLP 
+## Hackaton Online : NLP 
+### Hack4-NER-Simple-Transformer
